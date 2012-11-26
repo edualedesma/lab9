@@ -3,9 +3,9 @@ require File.expand_path('../lib/tictactoe_alu3286/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ["alu3286"]
-  gem.email         = ["TODO: Write your email address"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.email         = ["eaculed@gmail.com"]
+  gem.description   = %q{Juego de tres en raya}
+  gem.summary       = %q{Tres en raya}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
